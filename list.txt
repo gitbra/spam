@@ -90,6 +90,7 @@ image-culture.fr
 imarketool.fr
 immeuble-chez-vous.fr
 inflation-pause.fr
+inflation-rigide.fr
 info-du-temps.fr
 info-habitude.fr
 info-lucarne.fr
@@ -182,6 +183,7 @@ prendre-grille.fr
 prendre-republique.fr
 principe-etroit.fr
 prononcer-mots.fr
+raisin-expediteur.fr
 ravu.fr
 recherche-affaires.com
 reprendreinfo.fr
