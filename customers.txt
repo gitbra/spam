@@ -1,9 +1,11 @@
 Allianz
+Becquet
 Blancheporte
 Boulanger
 Center Parcs
 Cyrillus
 Damart
+Dodo
 Dr Pierre Ricaud
 Électricité de France (EDF)
 Etam
@@ -15,6 +17,7 @@ Linvosges
 Made.com
 Nocibé
 Pierre et Vacances
+Prevalys
 Tradition des Vosges
 TUI
 Vertbaudet
