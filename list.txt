@@ -37,6 +37,7 @@ colorado-renne.fr
 com-eco.fr
 com-optin.fr
 com-prime.fr
+comete-octobre.fr
 composer-capital.fr
 configuration-mode.fr
 conso-libre.fr
@@ -110,6 +111,7 @@ info-lucarne.fr
 infosmonos.fr
 infusion-bruler.fr
 instant-detente.fr
+instruit-rigide.fr
 internet-du-jour.fr
 japhorra.fr
 jardin-vert.fr

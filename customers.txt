@@ -1,4 +1,5 @@
 Allianz
+Athena
 Becquet
 Blancheporte
 Boulanger
@@ -18,6 +19,7 @@ Kusmi Tea
 Le Slip Français
 Linvosges
 Made.com
+Morgan
 Nocibé
 Pierre et Vacances
 Prevalys
