@@ -1,5 +1,6 @@
 Allianz
 Athena
+Aubade
 Becquet
 Blancheporte
 Boulanger
@@ -14,6 +15,7 @@ Dr Pierre Ricaud
 Etam
 Gemo
 Groupama
+Habitat
 IKKS
 Kusmi Tea
 Le Slip Français
