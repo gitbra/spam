@@ -94,6 +94,7 @@ composer-capital.fr
 comptoir-des-particuliers.com
 configuration-mode.fr
 conso-libre.fr
+consomieux.com
 consotop.fr
 constellations-jolie.fr
 consulting-instant.fr
@@ -293,6 +294,7 @@ les-petitsinstants.fr
 les-routes-infos.fr
 les-temps-des-consos.fr
 lespassionsinfos.fr
+lgmb.fr
 liberation-dehors.fr
 librairie-liquide.fr
 licorne-victoire.fr
