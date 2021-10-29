@@ -2,6 +2,7 @@ Airbnb
 Allianz
 Athena
 Aubade
+AutoBiz
 Becquet
 Blancheporte
 Bleuforêt
@@ -9,8 +10,10 @@ BMW
 Boulanger
 Campings.com
 Carter Cash
+Celio
 Center Parcs
 Cheerz
+Courtepaille
 Cyrillus
 Damart
 Daikin
@@ -18,6 +21,7 @@ Dodo
 Dr Pierre Ricaud
 Électricité de France (EDF)
 Élite Rencontre
+Emma Matelas
 Engie
 Etam
 Gemo
@@ -25,11 +29,15 @@ Groupama
 Habitat
 IKKS
 Kusmi Tea
+Le Roi Du Matelas
 Le Slip Français
+LesFurets.com
 Linvosges
 Made.com
+Maeva.com
 Morgan
 Nocibé
+Pandora
 Paris Country Club
 Pierre et Vacances
 Prevalys
