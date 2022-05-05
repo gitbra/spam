@@ -166,7 +166,10 @@ douche-paris.fr
 doumedanalys.fr
 dragon-horloge.fr
 droite-janvier.fr
+drtvt.com
+dsejour.fr
 dynamiteduweb.fr
+eajf.fr
 echelle-du-jour.fr
 economies-budget.com
 ecraninstant.fr
@@ -205,6 +208,7 @@ facileadonner.fr
 faible-flutes.fr
 fairflag.fr
 fashionaction.fr
+fastwebnet.it
 federeauxclochers.com
 fer-du-desert.fr
 ferstreettrac.fr
@@ -279,6 +283,7 @@ inflation-rigide.fr
 info-du-temps.fr
 info-habitude.fr
 info-lucarne.fr
+infoscribe.ai
 infosmonos.fr
 infusion-bruler.fr
 init-web.com
@@ -324,6 +329,7 @@ lamini-com.fr
 lamluslig.fr
 lanewsbjrinfo.com
 lanterne-collectif.fr
+lapetitenews.fr
 larchipel.net
 lavande-infusion.fr
 le-foyer-instant.fr
@@ -367,7 +373,9 @@ ma-kultureweb.fr
 ma-premiereselection.fr
 magicien-logique.fr
 magnewsinfo.fr
+mahlesoldes.com
 mailody-md.com
+mailsouthstreet.com
 mains-protection.fr
 maisilestou.com
 maison-ciel.fr
@@ -378,6 +386,7 @@ maree-rail.fr
 marionnaud.paris
 markandplace.fr
 marketo.org
+marma.com
 mas-enedis.fr
 masculinargentifere.fr
 matterise.fr
@@ -442,6 +451,7 @@ news-palmier.fr
 niveau-potins.fr
 nombres-defense.fr
 north-sales.com
+notif-colissimo-laposte.info
 notificationsnews.net
 nouvelles-recla.me
 novamode.fr
@@ -488,6 +498,7 @@ percactuanalys.fr
 perceuse-obelisque.fr
 persinfostat.fr
 petite-news.fr
+petitesnews.fr
 petitnet.fr
 phare-soumettre.fr
 phrase-bulle.fr
@@ -541,6 +552,7 @@ riablerogene.fr
 ridicule-arbitre.fr
 rienetanalys.fr
 rietimetrac.fr
+rndamailing.com
 ronanalysisstat.fr
 ronronner-planeur.fr
 rosette-toujours.fr
@@ -639,6 +651,7 @@ vasteavisinfo.fr
 vent-conso.fr
 vent-stylo.fr
 vernis-divers.fr
+verysent.com
 vetuswebcheck.fr
 victoire-croire.fr
 vin-triple.fr
