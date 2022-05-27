@@ -234,6 +234,7 @@ france-ouest.fr
 france-venise.fr
 frylnews.com
 funxity.com
+galerieoriginale.fr
 gazelle-ouest.fr
 genemarketlink.fr
 germe-fou.fr
@@ -448,6 +449,7 @@ netsitesystems.com
 neuanalysisstat.fr
 neufadtstat.fr
 news-palmier.fr
+newsletter.lafuma-mobilier.fr
 niveau-potins.fr
 nombres-defense.fr
 north-sales.com
