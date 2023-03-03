@@ -1,3 +1,4 @@
+# Companies working with spammers
 Airbnb
 Allianz
 Athena
@@ -24,6 +25,7 @@ Dr Pierre Ricaud
 Emma Matelas
 Engie
 Etam
+Française des Jeux (FDJ)
 Gemo
 Groupama
 Habitat
@@ -36,13 +38,19 @@ Linvosges
 Made.com
 Maeva.com
 Morgan
+Nissan
 Nocibé
 Pandora
 Paris Country Club
 Pierre et Vacances
 Prevalys
+Red (SFR)
+The Kooples
 Tradition des Vosges
+Transavia
 TUI
+Uniqlo
 Vertbaudet
 Weight Watchers
 Yves Rocher
+Zadig et Voltaire
