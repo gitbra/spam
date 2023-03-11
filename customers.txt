@@ -1,5 +1,6 @@
 # Companies working with spammers
 Airbnb
+Air France
 Allianz
 Athena
 Aubade
@@ -31,8 +32,10 @@ Groupama
 Habitat
 IKKS
 Kusmi Tea
+Land Rover
 Le Roi Du Matelas
 Le Slip Français
+Le Temps des Cerises
 LesFurets.com
 Linvosges
 Made.com
@@ -40,11 +43,13 @@ Maeva.com
 Morgan
 Nissan
 Nocibé
+Oscaro
 Pandora
 Paris Country Club
 Pierre et Vacances
+Phildar
 Prevalys
-Red (SFR)
+SFR
 The Kooples
 Tradition des Vosges
 Transavia
