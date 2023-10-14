@@ -11,14 +11,18 @@ Bleuforêt
 BMW
 Boulanger
 Campings.com
+Carglass
 Carter Cash
 Celio
 Center Parcs
 Cheerz
 Courtepaille
+Culligan
 Cyrillus
 Damart
 Daikin
+Darjeeling
+Disney
 Dodo
 Dr Pierre Ricaud
 Électricité de France (EDF)
@@ -26,10 +30,12 @@ Dr Pierre Ricaud
 Emma Matelas
 Engie
 Etam
+Fram
 Française des Jeux (FDJ)
 Gemo
 Groupama
 Habitat
+Histoire d'or
 IKKS
 Kusmi Tea
 Land Rover
@@ -47,8 +53,10 @@ Oscaro
 Pandora
 Paris Country Club
 Pierre et Vacances
+Pierre Ricaud
 Phildar
 Prevalys
+Renault
 SFR
 The Kooples
 Tradition des Vosges
@@ -56,6 +64,8 @@ Transavia
 TUI
 Uniqlo
 Vertbaudet
+VeryChic
+VVF Villages
 Weight Watchers
 Yves Rocher
 Zadig et Voltaire
