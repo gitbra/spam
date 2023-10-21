@@ -5,6 +5,8 @@ agdateworks.com
 agenceacta.com
 alertesbonsplans.com
 alphaconcepts.fr
+andromedareach.fr
+astronetworking.fr
 augustine-nws.fr
 avantagesdumoment.fr
 baytowndentists.com
@@ -21,10 +23,13 @@ candy-sales.com
 certatraq.com
 com-eco.fr
 comdatagroup.fr
+connectnova.fr
+connectvox.fr
 consomieux.com
 consumer-live.com
 dailymotivation.site
 dansnoscoeurs.fr
+datareach.fr
 dealsetactus.com
 drtvt.com
 dynamiteduweb.fr
@@ -33,7 +38,9 @@ eajf.fr
 eclairbonsplans.com
 economies-budget.com
 ecupon.ro
+emafly.fr
 emarsys.com
+ematrax.fr
 esaprovik.com
 esccampagnes.fr
 esinfonews.com
@@ -86,9 +93,11 @@ live-productions.com
 lsos.fr
 mahlesoldes.com
 mailflash.fr
+mailguru.fr
 mailody-md.com
 mailpulse.fr
 mailsouthstreet.com
+mailvif.fr
 mangaplanete.com
 marionnaud.paris
 marketo.org
@@ -97,6 +106,7 @@ mas-enedis.fr
 maxipulse.fr
 maxisnap.fr
 maxispot.fr
+mediamatrix.fr
 mediasnap.fr
 mediaway.fr
 mediego.com
@@ -116,6 +126,7 @@ newsletter-laposte.fr
 newsletter.lafuma-mobilier.fr
 notif-colissimo-laposte.info
 notificationsnews.net
+novaidees.fr
 offerta-vip.com
 offresflash.com
 offresprivilegiees.com
@@ -129,7 +140,14 @@ premiumattitude.fr
 projectstatus.in
 promocorner.fr
 promosmalins.com
+pulsarpublicite.fr
+pulsefly.fr
+pulselink.fr
 pulserocket.fr
+quasardesigns.fr
+quicklink.fr
+quickreach.fr
+raptorinnovation.fr
 raysfield.com
 relations-actionnaires.com
 remisesexceptionnelles.com
@@ -150,6 +168,8 @@ unamourdebonplan.fr
 vdslsoldes.com
 verysent.com
 viteconnect.fr
+vitereach.fr
+vitevues.fr
 vml-elm.com
 vosdealsvip.com
 voyages-kw.fr
