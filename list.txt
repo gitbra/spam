@@ -94,6 +94,7 @@ lsos.fr
 mahlesoldes.com
 mailflash.fr
 mailguru.fr
+mailnova.fr
 mailody-md.com
 mailpulse.fr
 mailsouthstreet.com
@@ -131,6 +132,7 @@ offerta-vip.com
 offresflash.com
 offresprivilegiees.com
 optiflash.fr
+optispot.fr
 otamagic.com
 perseusadvocacy.fr
 portaqnews.com
@@ -159,6 +161,7 @@ sixfiguregenerator.com
 soiree-unique.com
 souslesvents.fr
 stackcommerce.com
+stellarsolutions.fr
 surlatable.com
 thepinnaclepromo.com
 tidi.fr
@@ -174,3 +177,4 @@ vml-elm.com
 vosdealsvip.com
 voyages-kw.fr
 web-recherche.fr
+zenithinsights.fr
