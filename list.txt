@@ -1,5 +1,6 @@
 0536weixiu.com
 abonnements-libres.com
+acmecommunication.fr
 actu-premium.fr
 agdateworks.com
 agenceacta.com
@@ -13,10 +14,12 @@ baytowndentists.com
 bolomeil.com
 bon-portrait.fr
 bonne-com.fr
+bonsplansreduits.net
 boosthub.fr
 boulevarddigital.fr
 bubble-diving.com
 bureauxlocaux.com
+buzzliste.fr
 bva-surveys.com
 canal-fil.com
 candy-sales.com
@@ -50,6 +53,7 @@ espmp-cufr.net
 fastwebnet.it
 federeauxclochers.com
 flashgenius.fr
+flashnova.fr
 frylnews.com
 galerieoriginale.fr
 gammaoutreach.fr
@@ -89,8 +93,10 @@ lemeilleurdestockage.com
 les-offres-mailody.com
 les-petites-adresses.fr
 lgmb.fr
+linstantpromos.com
 live-productions.com
 lsos.fr
+lvegastrategies.fr
 mahlesoldes.com
 mailflash.fr
 mailguru.fr
@@ -104,8 +110,10 @@ marionnaud.paris
 marketo.org
 marma.com
 mas-enedis.fr
+mavisionstrategique.fr
 maxipulse.fr
 maxisnap.fr
+maxisphere.fr
 maxispot.fr
 mediamatrix.fr
 mediasnap.fr
@@ -127,6 +135,7 @@ newsletter-laposte.fr
 newsletter.lafuma-mobilier.fr
 notif-colissimo-laposte.info
 notificationsnews.net
+notrepromodujour.com
 novaidees.fr
 offerta-vip.com
 offresflash.com
@@ -162,6 +171,7 @@ soiree-unique.com
 souslesvents.fr
 stackcommerce.com
 stellarsolutions.fr
+superpromos.net
 surlatable.com
 thepinnaclepromo.com
 tidi.fr
@@ -177,4 +187,5 @@ vml-elm.com
 vosdealsvip.com
 voyages-kw.fr
 web-recherche.fr
+wiggyworld.com
 zenithinsights.fr
