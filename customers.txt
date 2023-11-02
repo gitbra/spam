@@ -1,6 +1,7 @@
 # Companies working with spammers
 Airbnb
 Air France
+Alinea
 Allianz
 Athena
 Aubade
@@ -10,6 +11,7 @@ Blancheporte
 Bleuforêt
 BMW
 Boulanger
+Bourgeois
 Campings.com
 Carglass
 Carter Cash
@@ -22,6 +24,7 @@ Cyrillus
 Damart
 Daikin
 Darjeeling
+Decathlon Travel
 Disney
 Dodo
 Dr Pierre Ricaud
@@ -47,10 +50,12 @@ LesFurets.com
 Linvosges
 Made.com
 Maeva.com
+Marionnaud
 Morgan
 Nissan
 Nocibé
 Oscaro
+Palais des Thés
 Pandora
 Paris Country Club
 Pierre et Vacances
