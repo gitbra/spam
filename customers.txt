@@ -15,6 +15,7 @@ Bourgeois
 Campings.com
 Carglass
 Carter Cash
+Castorama
 Celio
 Center Parcs
 Cheerz
@@ -26,6 +27,7 @@ Daikin
 Darjeeling
 Decathlon Travel
 Disney
+Doctissimo
 Dodo
 Dr Pierre Ricaud
 Électricité de France (EDF)
@@ -64,6 +66,7 @@ Phildar
 Prevalys
 Renault
 SFR
+Stokomani
 The Kooples
 Tradition des Vosges
 Transavia
